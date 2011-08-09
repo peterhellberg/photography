@@ -22,12 +22,14 @@ the preset has been applied. YMMV.
 
 ### X100 Gothenburg [Normal, Bright]
 
- Intense reds and split toned
+ Intense reds and split toned.
 
  [![X100 Gothenburg Normal example](http://farm7.static.flickr.com/6128/5955356037_8ac0602991.jpg)](http://www.flickr.com/photos/peterhellberg/5955356037/)
  [![X100 Gothenburg Bright example](http://farm7.static.flickr.com/6036/5878329346_48648dd966.jpg)](http://www.flickr.com/photos/peterhellberg/5878329346/)
 
 ### X100 Stockholm
+
+ Sharper than X100 Gothenburg, less vibrant but more clarity. (Might need some refinements)
 
  [![X100 Stockholm example](http://farm3.static.flickr.com/2711/5804666342_a4671f427e.jpg)](http://www.flickr.com/photos/peterhellberg/5804666342/)
 
