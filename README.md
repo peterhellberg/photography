@@ -22,3 +22,5 @@ workflow.
 ### X100 Tibro
 
  Increased Recovery, Fill light and Contrast.
+
+ ![X100 Tibro example](http://farm6.static.flickr.com/5107/5769686100_d907c7d762.jpg)
