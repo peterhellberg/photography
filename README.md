@@ -1,7 +1,8 @@
 # Photography
 
 This repository contains files related to my photography post processing
-workflow.
+workflow. Note that the example images might have slight tweaks after
+the preset has been applied. YMMV.
 
 ## My Lightroom presets
 
@@ -21,6 +22,10 @@ workflow.
 
  ![X100 Gothenburg Normal example](http://farm7.static.flickr.com/6128/5955356037_8ac0602991.jpg)
  ![X100 Gothenburg Bright example](http://farm7.static.flickr.com/6036/5878329346_48648dd966.jpg)
+
+### X100 Stockholm
+
+ [![X100 Stockholm example](http://farm3.static.flickr.com/2711/5804666342_a4671f427e.jpg)](http://www.flickr.com/photos/peterhellberg/5804666342/)
 
 ### X100 Tibro
 
