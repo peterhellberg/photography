@@ -12,16 +12,20 @@ the preset has been applied. YMMV.
 
  Really washed out colors, pale skin tones and split toned.
 
+ [![X100 Bandhagen Muted example + underexposed](http://farm6.static.flickr.com/5033/5804111943_3bd0867bb0.jpg)](http://www.flickr.com/photos/peterhellberg/5804111943/)
+
 ### X100 Enskede [Normal, Heavy]
 
  Black and white, vignetting and pushed.
+
+ [![X100 Enskede Heavy example](http://farm6.static.flickr.com/5047/5723446035_2ac04e902d.jpg)](http://www.flickr.com/photos/peterhellberg/5723446035/)
 
 ### X100 Gothenburg [Normal, Bright]
 
  Intense reds and split toned
 
- ![X100 Gothenburg Normal example](http://farm7.static.flickr.com/6128/5955356037_8ac0602991.jpg)
- ![X100 Gothenburg Bright example](http://farm7.static.flickr.com/6036/5878329346_48648dd966.jpg)
+ [![X100 Gothenburg Normal example](http://farm7.static.flickr.com/6128/5955356037_8ac0602991.jpg)](http://www.flickr.com/photos/peterhellberg/5955356037/)
+ [![X100 Gothenburg Bright example](http://farm7.static.flickr.com/6036/5878329346_48648dd966.jpg)](http://www.flickr.com/photos/peterhellberg/5878329346/)
 
 ### X100 Stockholm
 
@@ -31,4 +35,4 @@ the preset has been applied. YMMV.
 
  Increased Recovery, Fill light and Contrast.
 
- ![X100 Tibro example](http://farm6.static.flickr.com/5107/5769686100_d907c7d762.jpg)
+ [![X100 Tibro example](http://farm6.static.flickr.com/5107/5769686100_d907c7d762.jpg)](http://www.flickr.com/photos/peterhellberg/5769686100/)
